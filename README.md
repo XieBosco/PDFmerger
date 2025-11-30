@@ -1,6 +1,6 @@
 # PDF Merger
 
-A robust Python desktop application for merging multiple PDF files into a single document with advanced control over the output.
+An easy-to-use Python desktop application for merging multiple PDF files into a single, professional document. Effortlessly select pages, reorder files and view file details with this application.
 
 ## Features
 
